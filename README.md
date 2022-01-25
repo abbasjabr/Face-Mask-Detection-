@@ -32,7 +32,6 @@ This project requires Python 3.8 or 3.9 and the following Python libraries insta
 ![accuracy_loss](images/new_plot.png)
 
 
-
 ## 2. Evaluation:
 ![Evaluation](images/lossAccuracy.PNG)
 
@@ -40,18 +39,14 @@ This project requires Python 3.8 or 3.9 and the following Python libraries insta
 ![report](images/report_.PNG)
 
 
-
 ### 4. Wearing Mask:
 ![mask](images/MaskOK.PNG)
-
 
 
 ### 5. Not Wearing a Mask:
 ![maskNO](images/NoMask.PNG)
 
-
 ## Credits
-
 1. [GitHub](http://github.com)
 2. [Stackoverflow](https://stackoverflow.com)
 3. [Kaggle](https://www.kaggle.com/)
