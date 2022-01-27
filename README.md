@@ -29,11 +29,11 @@ This project requires Python 3.8 or 3.9 and the following Python libraries insta
 # Results:
 ## 1. Loss & Accuracy curves:
    
-![accuracy_loss](images/new_plot.png width="48")
+![accuracy_loss](images/new_plot.png)
 
 
 ## 2. Evaluation:
-![Evaluation](images/lossAccuracy.PNG){:height="36px" width="36px"}
+![Evaluation](images/lossAccuracy.PNG)
 
 ## 3. Classification Report:
 ![report](images/report_.PNG)
