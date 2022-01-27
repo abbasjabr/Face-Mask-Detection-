@@ -106,7 +106,7 @@ while True:
 
 	# loop over the detected face locations and their locations
 	for (box, pred) in zip(locs, preds):
-		# unpack the bounding box and predictions
+		# unpack the bounding box anhttps://github.com/abbasjabr/Face-Mask-Detection-d predictions
 		(startX, startY, endX, endY) = box
 		(mask, withoutMask) = pred
 		# Add class label & color used to draw the bounding-box & text
