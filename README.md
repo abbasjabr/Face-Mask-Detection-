@@ -33,7 +33,7 @@ This project requires Python 3.8 or 3.9 and the following Python libraries insta
 
 
 ## 2. Evaluation:
-![Evaluation](images/lossAccuracy.PNG)
+![Evaluation](images/lossAccuracy.PNG){:height="36px" width="36px"}
 
 ## 3. Classification Report:
 ![report](images/report_.PNG)
