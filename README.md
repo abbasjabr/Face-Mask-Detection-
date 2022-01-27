@@ -40,11 +40,11 @@ This project requires Python 3.8 or 3.9 and the following Python libraries insta
 
 
 ### 4. Wearing Mask:
-![mask](images/MaskOK.PNG)
+![mask](images/WithMask.jpg)
 
 
 ### 5. Not Wearing a Mask:
-![maskNO](images/NoMask.PNG)
+![maskNO](images/withoutMask.jpg)
 
 ## Credits
 1. [GitHub](http://github.com)
