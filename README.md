@@ -29,7 +29,7 @@ This project requires Python 3.8 or 3.9 and the following Python libraries insta
 # Results:
 ## 1. Loss & Accuracy curves:
    
-![accuracy_loss](images/new_plot.png | width=100)
+![accuracy_loss](images/new_plot.png width="48")
 
 
 ## 2. Evaluation:
